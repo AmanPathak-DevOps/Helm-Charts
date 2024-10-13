@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-portfolio-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-13T09:26:51.636270883Z"
+    description: A Helm chart for Kubernetes
+    digest: 3b288e49945e044dcc2e6d9319cc2be3b204b5ce0eaae64c7ae127a14c799a03
+    name: go-portfolio-app
+    type: application
+    urls:
+    - go-portfolio-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-13T09:26:51.635828164Z"
